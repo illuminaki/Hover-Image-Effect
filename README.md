@@ -8,7 +8,7 @@ Para utilizar este efecto en tu propio proyecto o simplemente probarlo, sigue es
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/sebastian454/Hover-Image-Effect-Goku.git
+git clone https://github.com/illuminaki/Hover-Image-Effect-Goku.git
 ```
 2. Abre el archivo `index.html` en tu navegador para ver el efecto en acción.
 
